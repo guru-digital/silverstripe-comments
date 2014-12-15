@@ -9,7 +9,7 @@
 	}],
 	"require": {
 		"silverstripe/framework": "~3.1",
-		"colymba/gridfield-bulk-editing-tools": "2.0.2"
+		"colymba/gridfield-bulk-editing-tools": "~2.1.0"
 	},
 	"suggest": {
 		"ezyang/htmlpurifier": "4.*"
